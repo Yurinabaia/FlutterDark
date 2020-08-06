@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592246096411",
+    "firebase_url": "https://chatnabaia.firebaseio.com",
+    "project_id": "chatnabaia",
+    "storage_bucket": "chatnabaia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592246096411:android:a3d7d329e1e2c719a7eebe",
+        "android_client_info": {
+          "package_name": "nabaia.com.chatflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592246096411-slbanop4ne327kdao8bos3hg9844c0hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nabaia.com.chatflutter",
+            "certificate_hash": "2f612d3df8cb7ec42048b93a39885b7fe4b4bea5"
+          }
+        },
+        {
+          "client_id": "592246096411-i0hbbvalaouspvk7ded8b9bc68gv0rf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGGYZ3rnZ4YX34FbIb2379xPOgR1Drig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592246096411-i0hbbvalaouspvk7ded8b9bc68gv0rf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
